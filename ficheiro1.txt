@@ -1,1 +1,2 @@
-Este é o exemplo de um ficheiro de texo file1
+
+Estou a fazer alterações neste ficheiro
